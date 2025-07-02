@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first repository
 <br>
-Author - Anant
+Author - Anant Kumar Dewangan
